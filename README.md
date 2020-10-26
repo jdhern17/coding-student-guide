@@ -8,11 +8,11 @@
 
 # Table of Contents
 
-- ## [Homework Workflow](./homework)
-- ## [Pseudocoding & Learning](./pseudocoding-and-learning)
-- ## [Javascript & Command Line 101s](./javascript-and-command-line)
-- ## [Troubleshooting](./troubleshooting)
-- ## [VS Code](./vscode)
-- ## [Careers in Tech](./tech-careers)
-- ## [Algorithms](./algorithms)
-- ## [Career Prep](./career-prep)
+- ## [Homework Workflow](./homework.md)
+- ## [Pseudocoding & Learning](./pseudocoding-and-learning.md)
+- ## [Javascript & Command Line 101s](./javascript-and-command-line.md)
+- ## [Troubleshooting](./troubleshooting.md)
+- ## [VS Code](./vscode.md)
+- ## [Careers in Tech](./tech-careers.md)
+- ## [Algorithms](./algorithms.md)
+- ## [Career Prep](./career-prep.md)
