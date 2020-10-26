@@ -26,3 +26,7 @@
 - Once the starter code files are copied to their destination, perform the `git add`, `git commit`, and `git push` steps.
 
 <br>
+
+<hr>
+
+## [Back to Table of Contents](./README)

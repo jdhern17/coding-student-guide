@@ -17,3 +17,7 @@
 ### Crash-course computer science
 
 <br>
+
+<hr>
+
+## [Back to Table of Contents](./README)

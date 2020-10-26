@@ -13,3 +13,7 @@
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 <br>
+
+<hr>
+
+## [Back to Table of Contents](./README)

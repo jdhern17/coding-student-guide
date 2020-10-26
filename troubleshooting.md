@@ -33,3 +33,7 @@ MDN Web Docs are an excellent resource for a more technical deep-dive understand
 
 
 <br>
+
+<hr>
+
+## [Back to Table of Contents](./README)

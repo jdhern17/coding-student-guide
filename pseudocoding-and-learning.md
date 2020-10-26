@@ -90,3 +90,7 @@ In a learning environment such as the coding bootcamp, it is challenging to know
   - You should be able to explain to anyone, technical or non-technical, what the code is doing.
 
 <br>
+<hr>
+
+
+## [Back to Table of Contents](./README)
