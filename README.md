@@ -15,4 +15,4 @@
 - ## [VS Code](./vscode.md)
 - ## [Careers in Tech](./tech-careers.md)
 - ## [Algorithms](./algorithms.md)
-- ## [Career Prep](./career-prep.md)
+- ## [Career Prep](./career-knowledge.md)

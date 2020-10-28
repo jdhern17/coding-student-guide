@@ -6,7 +6,7 @@
 
 ### Code for America/City
 
-### Exceptions Welcome Podcast
+### [Exceptions Welcome Podcast](http://www.exceptionswelcome.com/)
 
 ### Civic Tech
 
