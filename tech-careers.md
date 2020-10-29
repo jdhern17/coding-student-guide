@@ -7,7 +7,7 @@ Interested in software and tech roles, but not entirely sure if coding is where 
 | Sales Engineer |  Be the technical guru to support the sales team during the sales lifecycle! |
 | Implementation Engineer |  Help the Implementation team as they onboard a new client onto the software system by being the central point of contact between technical and onboarding teams!   |
 | Cloud Infrastructure Engineer | Support the Infrastructure team as they build and maintain the various platforms and services that help run the product! |
-| Network Engineer | Supporth the Networking team as they manage the many network communications necessary to run the internal company or the various interconnected systems! |
+| Network Engineer | Support the Networking team as they manage the many network communications necessary to run the internal company or the various interconnected systems! |
 | Support Engineer | Become the product-guru as you provide support to a system's various product-lines. Learn how a product is meant to work and the many issues that can arise during its use! |
 | Integration Engineer | Help build, support and establish relationships with the many partner systems that provide and extract data from your company's API and product! The software world is an ecosystem of integrated parts! |
 | Security Engineer | Help reinforce the security tools your software company uses to prevent and address attacks from external parties! |
