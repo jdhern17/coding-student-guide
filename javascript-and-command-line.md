@@ -1,8 +1,8 @@
 # JavaScript 101s
 
 ## Equal Sign `!=`  equals!
-- At some point in the bootcamp, whether through troubleshooting or reading, but the equals sign `=` in JavaScript is not the same thing as the equals sign in Math.
-- The equals sign `=` in JavaScript is referring to the programming concept of assignment.
+- The equals sign `=` in JavaScript is not the same thing as the equals sign in Math!
+- The equals sign `=` is referring to the programming concept of assignment.
 - This means that the program will evaluate the right side of the assignment operator `=` and assign the resulting value to the variable on the left side.
 
 <br>
