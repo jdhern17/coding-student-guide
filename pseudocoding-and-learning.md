@@ -59,12 +59,19 @@ A common questions many students have is how to begin an assignment or algorithm
 
 > Pro-tip: The main goal of this pseudocoding strategy is to continue pushing through the wall of doubt by adding more and more detail to your pseudocode.
 
+### 7. Coding
+
+- Begin coding the simplest goals first, such as defining variables.
+- Add detail to more challenging requirements until you are ready to research a specific goal or begin coding.
+
+> Pro-tip: Take the problem in pieces. Begin with easy examples and slowly add complexity to the task. For example, begin coding the program as if the user only selected one item instead of multiple. Then add complexity.
+
 ## Coding for others
 
-Ideally, your code should be heavily commented.
+Ideally, your code should be heavily commented and written for an audience.
 
-- The style of coding where you have a line of comment followed by a line of code is a great way for learners to make commenting and planning before coding a habit.
-- Your comments should be easily readable by other developers, technical writers and your future self.
+- The style of coding where you have a line of comment followed by a line of code is a great way for learners to make planning before coding a habit.
+- Your comments should be easily readable by other developers and your future self.
 - Your variable names should be unique and descriptive.
 
 ```js
@@ -72,7 +79,7 @@ Ideally, your code should be heavily commented.
 var userDecision = prompt("Would you like rock, paper or scissors");
 
 // computer chooses at random from array
-var compArr = ["rock", "paper", "scissors"];
+var compDecisionArr = ["rock", "paper", "scissors"];
 ```
 
 ## Using code found online
