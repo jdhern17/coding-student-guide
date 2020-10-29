@@ -27,7 +27,7 @@ As you approach the end of the bootcamp, here are some resources to support your
 
 Feel as though you are starting in the software world from scratch! Rethink your perspective!
 - Leverage your network:
-    - Strengthen up your [LinkedIn](https://linkedin.com) page and start adding your friends! Check out where they're working and see if there are any job openings at their companies that they can refer you to!
+    - Strengthen up your [LinkedIn](https://linkedin.com) page and start adding your friends. Check out where they're working and see if there are any job openings at their companies that they can refer you to!
 - Leverage your domain!
     - Do you have years of experience in another industry such as hospitality, energy, art or some other field? Check out software companies in these spaces and build a compelling narrative around how these experiences make you an awesome resource for helping a software product succeed in the real world!
 
