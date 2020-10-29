@@ -23,6 +23,18 @@ As you approach the end of the bootcamp, here are some resources to support your
 ### [Resume Action Verbs](https://www.bc.edu/content/dam/files/offices/careers/pdf/actionverbsforweb_03.pdf)
 - Spruce up your resume with Boston College's Action Verbs sheet!
 
+### Leverage your network and your domain!
+
+Feel as though you are starting in the software world from scratch! Rethink your perspective!
+- Leverage your network:
+    - Strengthen up your [LinkedIn](https://linkedin.com) page and start adding your friends! Check out where they're working and see if there are any job openings at their companies that they can refer you to!
+- Leverage your domain!
+    - Do you have years of experience in another industry such as hospitality, energy, art or some other field? Check out software companies in these spaces and build a compelling narrative around how these experiences make you an awesome resource for helping a software product succeed in the real world!
+
+### Keep learning!
+
+Get more certificates, take more online courses, just keep learning! Software is always changing and your ability to build your own culture of continuous learning may become more useful than any particular tool or language!
+
 <br>
 
 <hr>
