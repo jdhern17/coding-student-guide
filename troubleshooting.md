@@ -1,6 +1,6 @@
-# Google Search & Top Websites
+# Troubleshooting Tips 👩‍🏭
 
-## Tips for Troubleshooting and Searching
+## General Tips 👩‍🏫
 
 - If you're spending more than 20-30 minutes on an issue or project goal...Google it!
 - Always include the applicable language in the Google search (ex. JavaScript, react, mysql).
@@ -17,7 +17,7 @@ Lastly, if you get stuck and are spending more than a few hours on an issue or g
 - Ask your SSM about the AskBCS Learning Assistant tool!
 - Reach out to your tutor!
 
-## Top Websites for Troubleshooting and Learning
+## Top Websites for Troubleshooting and Learning 🏆
 
 ### 1. [W3Schools](https://w3schools.com)
 

@@ -1,16 +1,16 @@
-# VSCode Pro-Tips
+# VSCode Pro-Tips 🌀
 
-## Auto-Save
+## Auto-Save 💾
 
 To avoid forgetting to save, use VS Code's Auto-Save feature:
 - Go to File >> Auto-Save
 
-## Previewing .md files
+## Previewing .md files 🎬
 
 The best way to view `.md` files in VS Code (such as this guide):
 - Right-click on the current text editor's tab >> Open Preview
 
-## Favorite Shortcuts
+## Favorite Shortcuts 🤹‍♀️
 
 - ### Comment current line:
 > - On a Mac: Command(⌘) + /
@@ -30,7 +30,7 @@ The best way to view `.md` files in VS Code (such as this guide):
 > - [Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 
-## Best VSCode Extensions
+## Best VSCode Extensions 🔌
 
 - ### Bracket Pair Colorizer
     - Colorize Matching Brackets
@@ -42,7 +42,7 @@ The best way to view `.md` files in VS Code (such as this guide):
         - != becomes ≠ and === becomes ≡
         - <= and >= become ≤ and ≥
 
-## Split Down/Right
+## Split Down/Right 🎥
 
 When working with multiple text editors, it may help to split the page into multiple editors:
 - Right-click on the current text editor's tab >> Split (left, right, up or down)

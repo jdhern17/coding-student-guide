@@ -1,10 +1,10 @@
-# Pseudocoding & Learning Code
+# Pseudocoding & Learning Code 🧪
 
 ## How to start coding from scratch
 
 A common questions many students have is how to begin an assignment or algorithm without a starting point. Here is a process that may help you build momentum.
 
-### 1. Requirements Gathering
+### 1. Requirements Gathering 🔊
 
 - Re-write the project's high-level goals in your own words in a `.js` file.
 
@@ -20,7 +20,7 @@ A common questions many students have is how to begin an assignment or algorithm
       // user sees result of whether they won or lost
       ```
 
-### 2. Requirements Analysis
+### 2. Requirements Analysis 📖
 
 - Under each comment, add a prediction or user-interface description as to how each goal will be achieved:
   - You do not have to begin coding yet.
@@ -30,7 +30,7 @@ A common questions many students have is how to begin an assignment or algorithm
       //// will the user select this from a dropdown? prompt?
       ```
 
-### 3. Technical Details
+### 3. Technical Detailing ⚙️
 
 - Once you have more detailed set of steps described, review your pseudocode and add more technical details where you can.
   - If you are unsure how to achieve a particular goal, write a note that you will research it later.
@@ -41,11 +41,11 @@ A common questions many students have is how to begin an assignment or algorithm
       //// NOTE: need to research this
       ```
 
-### 4. Research
+### 4. Research 🔬
 
 - Review in-class activities or Google as necessary to address a technical goal.
 
-### 5. Examples
+### 5. Examples 🎪
 
 - Run through an example user story or data set.
   - example
@@ -53,20 +53,20 @@ A common questions many students have is how to begin an assignment or algorithm
       // user chooses rock, computer chooses scissors
       ```
 
-### 6. Grooming
+### 6. Grooming 🧹
 
 - Continue reviewing and adding technical detail to your psuedocode until coding feels like a logical next step.
 
 > Pro-tip: The main goal of this pseudocoding strategy is to continue pushing through the wall of doubt by adding more and more detail to your pseudocode.
 
-### 7. Coding
+### 7. Coding 💻
 
 - Begin coding the simplest goals first, such as defining variables.
 - Add detail to more challenging requirements until you are ready to research a specific goal or begin coding.
 
 > Pro-tip: Take the problem in pieces. Begin with easy examples and slowly add complexity to the task. For example, begin coding the program as if the user only selected one item instead of multiple. Then add complexity.
 
-## Coding for others
+## Coding for others 🙌
 
 Ideally, your code should be heavily commented and written for an audience.
 
@@ -82,7 +82,7 @@ var userDecision = prompt("Would you like rock, paper or scissors");
 var compDecisionArr = ["rock", "paper", "scissors"];
 ```
 
-## Using code found online
+## Using code found online 🔍
 
 In a learning environment such as the coding bootcamp, it is challenging to know when code found online can be considered usable in projects. Following tutorials or using code snippets for your homework assignments is okay! However, you should take the following steps to ensure you are avoiding plagiarism:
 

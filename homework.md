@@ -1,4 +1,4 @@
-# Homework Workflow
+# Homework Workflow 📝
 
 ## 1. Initialize Repo
 

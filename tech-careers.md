@@ -1,4 +1,4 @@
-# Careers In Tech
+# Careers In Tech 👩‍🚀
 
 Interested in software and tech roles, but not entirely sure if coding is where you want to start? Here are some other cool roles where technical know-how plays a critical role in the product's success:
 

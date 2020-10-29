@@ -29,5 +29,5 @@
 ## [Algorithms](./algorithms.md) 🧮
 - Tips for practicing algorithms in and out of the bootcamp.
 
-## [Career Prep](./career-resources.md) 🚵‍♀️
+## [Career Resources](./career-resources.md) 🚵‍♀️
 - Post-Bootcamp career ideas and resources.

@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms 🧮
 
 Practicing algorithms is an important tool to keep you prepared for many different interview types you may encounter.
 

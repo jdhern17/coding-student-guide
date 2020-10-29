@@ -1,4 +1,4 @@
-# Career Resources
+# Career Resources 🚵‍♀️
 
 As you approach the end of the bootcamp, here are some resources to support your continued learning and career-strengthening:
 

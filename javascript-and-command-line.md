@@ -1,4 +1,4 @@
-# JavaScript 101s
+# JavaScript 101s 📚
 
 ## Equal Sign `!=`  equals!
 - The equals sign `=` in JavaScript is not the same thing as the equals sign in Math!
@@ -31,7 +31,7 @@
 
 <br>
 
-# Command Line Tips
+# Command Line Tips 💻
 
 Entering the following into the command-line or within a command-line statement reference the following:
 
@@ -43,7 +43,7 @@ Entering the following into the command-line or within a command-line statement 
 
 <br>
 
-# Backend Tips
+# Backend Tips 🛠
 
 For later in the bootcamp,
 
