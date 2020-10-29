@@ -8,19 +8,26 @@
 
 # Table of Contents
 
-- ## [Homework Workflow](./homework.md)
-    - Getting your homework set up.
-- ## [Pseudocoding & Learning](./pseudocoding-and-learning.md)
-    - Navigating from scratch. 
-- ## [JavaScript & Command Line 101s](./javascript-and-command-line.md)
-    - JavaScript and Command Line tricks and tips. 
-- ## [Troubleshooting](./troubleshooting.md)
-    - Troubleshooting Tips.
-- ## [VS Code](./vscode.md)
-    - Recommended VS Code Extensions and shortcuts.
-- ## [Careers in Tech](./tech-careers.md)
-    - Learn more about the software career ecosystem.
-- ## [Algorithms](./algorithms.md)
-    - Tips for practicing algorithms in and out of the bootcamp.
-- ## [Career Prep](./career-resources.md)
-    - Post-Bootcamp career ideas and resources.
+## [Homework Workflow](./homework.md) 📝
+- Getting your homework set up.
+
+## [Pseudocoding & Learning](./pseudocoding-and-learning.md) 🧪
+- Navigating from scratch. 
+
+## [JavaScript & Command Line 101s](./javascript-and-command-line.md) 📚
+- JavaScript and Command Line tricks and tips. 
+
+## [Troubleshooting](./troubleshooting.md) 👩‍🏭
+- Troubleshooting Tips.
+
+## [VS Code](./vscode.md) 🌀
+- Recommended VS Code Extensions and shortcuts.
+
+## [Careers in Tech](./tech-careers.md) 👩‍🚀
+- Learn more about the software career ecosystem.
+
+## [Algorithms](./algorithms.md) 🧮
+- Tips for practicing algorithms in and out of the bootcamp.
+
+## [Career Prep](./career-resources.md) 🚵‍♀️
+- Post-Bootcamp career ideas and resources.

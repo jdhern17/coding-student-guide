@@ -10,7 +10,7 @@
   - Is this article within a similar level of complexity as to my current knowledge or goal? As in, is 60-80% of the code recognizable?
   - Is this article at least 75% related to my current issue or goal?
 - If an article has passed the test above, then carefully review the material from the top.
-- It's okay to have to look up unfamiliar terms in another tab while you work through the main article, as long as the amount of unfamiliar terms stays within the 60-80% recognizable range.
+- It's okay to have to look up unfamiliar terms in another tab while you work through the main article, as long as the amount of familiar terms stays within the 60-80% recognizable range.
 
 Lastly, if you get stuck and are spending more than a few hours on an issue or goal:
 - Reach out to a classmate, TA or instructor!
