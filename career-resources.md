@@ -6,7 +6,7 @@ As you approach the end of the bootcamp, here are some resources to support your
 - Resources to help you overcome Imposter Syndrome and plenty more!
 
 ### [Exceptions Welcome Podcast](http://www.exceptionswelcome.com/)
-- Podcast dedicated to Bootcamp Graduates and Junior Developers
+- Podcast dedicated to Bootcamp Graduates and Junior Developers.
 
 ### Volunteer Opportunities!
 - [Code for America](https://www.codeforamerica.org/)

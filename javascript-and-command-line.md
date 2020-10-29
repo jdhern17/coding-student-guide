@@ -39,7 +39,7 @@ Entering the following into the command-line or within a command-line statement 
 - `../`: Parent folder.
 - `~`: Home/Root folder. 
 - `↑` (up-arrow): Show previously entered command.
-
+- `Ctrl(⌃)` + `c`: Shut down process in current terminal. This can also be done with the trash button.
 
 <br>
 
