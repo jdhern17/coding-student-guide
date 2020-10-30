@@ -25,7 +25,7 @@ As you approach the end of the bootcamp, here are some resources to support your
 
 ### Leverage your network and your domain!
 
-Feel as though you are starting in the software world from scratch! Rethink your perspective!
+Feel as though you are starting in the software world from scratch? Rethink your perspective!
 - Leverage your network:
     - Strengthen up your [LinkedIn](https://linkedin.com) page and start adding your friends. Check out where they're working and see if there are any job openings at their companies that they can refer you to!
 - Leverage your domain!
