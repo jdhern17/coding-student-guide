@@ -17,6 +17,8 @@ Lastly, if you get stuck and are spending more than a few hours on an issue or g
 - Ask your SSM about the AskBCS Learning Assistant tool!
 - Reach out to your tutor!
 
+<br>
+
 ## Top Websites for Troubleshooting and Learning 🏆
 
 ### 1. [W3Schools](https://w3schools.com)
@@ -31,8 +33,28 @@ Stack Overflow articles are also excellent resources for very specific use cases
 
 MDN Web Docs are an excellent resource for a more technical deep-dive understanding of a particular topic, especially for JavaScript functions and APIs.
 
+<br>
+
+## `console.log` is your friend 🥂
+- Do not forget the importance of entering `console.log` throughout your code to troubleshoot unexpected behavior!
+- This means that when you are not seeing a certain line of code execute, attempt to place a `console.log` statement of the important variables to determine why your code is not functioning.
+- example:
+    - ```js
+      var x = 5
+      var y = "5"
+      // place console.logs here to pre-analyze the operands in the conditional
+      console.log("x is ", x);
+      console.log("y is ", y);
+      if (x === y) {
+          // check if this is executing by placing a console.log at the top.
+          console.log("from conditional comparing x and y");
+          document.getElementById("mainPage").innerHTML = "Hola Mundo!";
+      }
+      ```
 
 <br>
+
+
 
 <hr>
 

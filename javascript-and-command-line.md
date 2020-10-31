@@ -7,25 +7,6 @@
 
 <br>
 
-## `console.log` is your friend
-- Do not forget the importance of entering `console.log` throughout your code to troubleshoot unexpected behavior!
-- This means that when you are not seeing a certain line of code execute, attempt to place a `console.log` statement of the important variables to determine why your code is not functioning.
-- example:
-    - ```js
-      var x = 5
-      var y = "5"
-      // place console.logs here to pre-analyze the operands in the conditional
-      console.log("x is ", x);
-      console.log("y is ", y);
-      if (x === y) {
-          // check if this is executing by placing a console.log at the top.
-          console.log("from conditional comparing x and y");
-          document.getElementById("mainPage").innerHTML = "Hola Mundo!";
-      }
-      ```
-
-<br>
-
 ## `java` != `javascript`
 - While it can be easy to confuse the two, please note that these are two separate languages!
 
