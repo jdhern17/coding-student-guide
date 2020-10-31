@@ -14,12 +14,12 @@
     - ```js
       var x = 5
       var y = "5"
-
+      // place console.logs here to pre-analyze the operands in the conditional
+      console.log("x is ", x);
+      console.log("y is ", y);
       if (x === y) {
           // check if this is executing by placing a console.log at the top.
           console.log("from conditional comparing x and y");
-          console.log("x is ", x);
-          console.log("y is ", y);
           document.getElementById("mainPage").innerHTML = "Hola Mundo!";
       }
       ```
