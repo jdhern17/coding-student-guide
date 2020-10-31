@@ -33,7 +33,7 @@ Feel as though you are starting in the software world from scratch? Rethink your
 
 ### Keep learning!
 
-Get more certificates, take more online courses, just keep learning! Software is always changing and your ability to build your own culture of continuous learning may become more useful than any particular tool or language!
+Get more certificates, take more online courses, just keep learning! Software is always changing and your ability to build your own culture of continuous learning may become more useful than any particular tool or language.
 
 <br>
 
