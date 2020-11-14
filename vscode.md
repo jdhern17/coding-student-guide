@@ -29,6 +29,25 @@ The best way to view `.md` files in VS Code (such as this guide):
 > - [Mac Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 > - [Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
+## Coding Tricks! 🍭
+
+- ### Quick HTML classes
+    - Typing `div.col-md-6` and `Enter` will turn into:
+        - ```html
+            <div class="col-md-6"></div>
+            ```
+- ### Multiple HTML elements
+    - Typing `div.col-6*3` and `Enter` will turn into:
+        - ```html
+            <div class="col-6"></div>
+            <div class="col-6"></div>
+            <div class="col-6"></div>
+            ```
+- ### Quick HTML ids
+    - Typing `div#btn-container` and `Enter` will turn into:
+        - ```html
+            <div id="btn-container"></div>
+            ```
 
 ## Best VSCode Extensions 🔌
 
