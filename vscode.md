@@ -13,15 +13,15 @@ The best way to view `.md` files in VS Code (such as this guide):
 ## Favorite Shortcuts 🤹‍♀️
 
 - ### Comment current line:
-> - On a Mac: Command(⌘) + /
+> - Mac: Command(⌘) + /
 > - Windows: Control(⌃) + /
 
 - ### Shift current line up or down:
-> - On a Mac: Option(⌥) + ↕︎
+> - Mac: Option(⌥) + ↕︎
 > - Windows: Alt(⎇) + /
 
 - ### Select next instances of currently-selected text:
-> - On a Mac: Command(⌘) + D
+> - Mac: Command(⌘) + D
 > - Windows: Control(⌃) + D
 
 - ### Additional Extensions
@@ -48,6 +48,10 @@ The best way to view `.md` files in VS Code (such as this guide):
         - ```html
             <div id="btn-container"></div>
             ```
+- ### Format Document
+    - The `Format on Save` feature will allow you to format the document each time the editor is saved. This can be set to `True` from the Settings Pane:
+> - Mac: Code (in the upper-left) >> Preferences >> Settings >> Search Format on Save >> Check box.
+> - Windows: File >> Preferences >> Settings >> Search Format on Save >> Check box.
 
 ## Best VSCode Extensions 🔌
 
