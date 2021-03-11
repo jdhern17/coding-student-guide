@@ -1,12 +1,22 @@
 # Pseudocoding & Learning Code 🧪
 
-## How to start coding from scratch
+## How to start coding from scratch 🧩
 
-A common questions many students have is how to begin an assignment or algorithm without a starting point. Here is a process that may help you build momentum.
+A common questions many students have is how to begin an assignment or algorithm without a starting point. Here are two processes that may help you build momentum.
 
+## Simplify then Complexify 🧮
+### 1. Aim for a simple version of the app or algorithm.
+- Once you have a rough idea of how the application or algorithm works, design a simple version of it.
+- Shave off requirements that are secondary and focus on a simple version of the core product.
+### 2. Add Complexity
+- Once you have this simple version complete, add a layer of complexity.
+### 3. Refactor
+- Be comfortable refactoring! 
+- This strategy will require you to constantly refactor your code, restructure functions and repurpose variables.
+## Plan until Coding is Easy 📝
 ### 1. Requirements Gathering 🔊
 
-- Re-write the project's high-level goals in your own words in a `.js` file.
+- Re-write the project's high-level goals in your own words.
   - Break down each requirement into a short commented sentence.
   - Each comment should describe a small feature of the program.
   - example:
