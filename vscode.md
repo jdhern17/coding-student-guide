@@ -64,6 +64,8 @@ The best way to view `.md` files in VS Code (such as this guide):
     - Enhances code symbols:
         - != becomes ≠ and === becomes ≡
         - <= and >= become ≤ and ≥
+- ### Open in Browser
+    - Adds Open In Browser option to the right-click menu on HTML pages.
 
 ## Split Down/Right 🎥
 
